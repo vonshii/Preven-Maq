@@ -1,9 +1,18 @@
-
-
 .txt{
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    margin-top: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
+.contacto{
+    display: flex;
+    justify-content: baseline;
+}
+
+.pagg{
+    width: 500px;
+}
